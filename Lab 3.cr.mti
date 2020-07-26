@@ -1,0 +1,218 @@
+{C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Final/narrator_ctrl.v} {1 {vlog -work work -stats=none {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Final/narrator_ctrl.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module narrator_ctrl
+
+Top level modules:
+	narrator_ctrl
+
+} {} {}} {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/Kbd_ctrl.v} {1 {vlog -work work -stats=none {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/Kbd_ctrl.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module Kbd_ctrl
+
+Top level modules:
+	Kbd_ctrl
+
+} {} {}} {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/widereg.v} {1 {vlog -work work -stats=none {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/widereg.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module widereg
+
+Top level modules:
+	widereg
+
+} {} {}} {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/picoblaze_activity_template_de2/template_de2/pacoblaze_instruction_memory.v} {0 {vlog -work work -stats=none {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/picoblaze_activity_template_de2/template_de2/pacoblaze_instruction_memory.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module pacoblaze_instruction_memory
+** Error: C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/picoblaze_activity_template_de2/template_de2/pacoblaze_instruction_memory.v(7): Single value range only allowed in SystemVerilog.
+
+} {4.0 5.0} {}} {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/Write_Kbd_To_Scope_LCD.v} {1 {vlog -work work -stats=none {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/Write_Kbd_To_Scope_LCD.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module Write_Kbd_To_Scope_LCD
+
+Top level modules:
+	Write_Kbd_To_Scope_LCD
+
+} {} {}} {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/Generate_Arbitrary_Divided_Clk32.v} {1 {vlog -work work -stats=none {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/Generate_Arbitrary_Divided_Clk32.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module Generate_Arbitrary_Divided_Clk32
+
+Top level modules:
+	Generate_Arbitrary_Divided_Clk32
+
+} {} {}} {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/doublesync.v} {1 {vlog -work work -stats=none {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/doublesync.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module doublesync
+
+Top level modules:
+	doublesync
+
+} {} {}} {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/Keyboard.v} {1 {vlog -work work -stats=none {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/Keyboard.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module keyboard_fsm
+
+Top level modules:
+	keyboard_fsm
+
+} {} {}} {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/Flash_controller.v} {1 {vlog -work work -stats=none {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/Flash_controller.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module flash_read
+
+Top level modules:
+	flash_read
+
+} {} {}} {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/picoblaze_activity_template_de2/template_de2/picoblaze_template.v} {0 {vlog -work work -stats=none {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/picoblaze_activity_template_de2/template_de2/picoblaze_template.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module picoblaze_template
+** Error: C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/picoblaze_activity_template_de2/template_de2/picoblaze_template.v(11): (vlog-2892) Net type of 'input_data' must be explicitly declared.
+
+** Error: C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/picoblaze_activity_template_de2/template_de2/picoblaze_template.v(10): (vlog-2892) Net type of 'clk' must be explicitly declared.
+
+** Error: C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/picoblaze_activity_template_de2/template_de2/picoblaze_template.v(12): (vlog-2892) Net type of 'speed_signal' must be explicitly declared.
+
+** Error: C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/picoblaze_activity_template_de2/template_de2/picoblaze_template.v(74): (vlog-2110) Illegal reference to net "instruction".
+
+
+} {4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0} {}} {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/simple_ipod_solution.v} {0 {vlog -work work -stats=none {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/simple_ipod_solution.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module simple_ipod_solution
+** Error: C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/simple_ipod_solution.v(131): near ";": Syntax error.
+** Error: C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/simple_ipod_solution.v(134): (vlog-2730) Undefined variable: 'LED'.
+
+** Error: C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/simple_ipod_solution.v(360): (vlog-2388) 'kbd_received_ascii_code' already declared in this scope (simple_ipod_solution).
+
+** Error: C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/simple_ipod_solution.v(445): near ";": Syntax error.
+** Error: C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/simple_ipod_solution.v(446): near ";": Syntax error.
+** Error: C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/simple_ipod_solution.v(529): (vlog-2388) 'speed_up_event' already declared in this scope (simple_ipod_solution).
+
+** Error: C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/simple_ipod_solution.v(529): (vlog-2388) 'speed_down_event' already declared in this scope (simple_ipod_solution).
+
+** Error: C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/simple_ipod_solution.v(570): (vlog-2730) Undefined variable: 'speed_up_event_trigger'.
+
+** Error: C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/simple_ipod_solution.v(575): (vlog-2730) Undefined variable: 'speed_down_event_trigger'.
+
+** Error: C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/simple_ipod_solution.v(587): (vlog-2388) 'speed_up_event_trigger' already declared in this scope (simple_ipod_solution).
+
+** Error: C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/simple_ipod_solution.v(588): (vlog-2388) 'speed_down_event_trigger' already declared in this scope (simple_ipod_solution).
+
+** Error: C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/simple_ipod_solution.v(611): (vlog-2388) 'speed_reset_event' already declared in this scope (simple_ipod_solution).
+
+** Error: C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/simple_ipod_solution.v(633): near "[": syntax error, unexpected '[', expecting IDENTIFIER or TYPE_IDENTIFIER
+** Error: C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/simple_ipod_solution.v(644): near "[": syntax error, unexpected '[', expecting IDENTIFIER or TYPE_IDENTIFIER
+** Error: C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/simple_ipod_solution.v(647): (vlog-2730) Undefined variable: 'Seven_Seg_Val'.
+
+** Error: C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/simple_ipod_solution.v(647): (vlog-2730) Undefined variable: 'Seven_Seg_Data'.
+
+** Error: C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/simple_ipod_solution.v(672): near "[": syntax error, unexpected '[', expecting IDENTIFIER or TYPE_IDENTIFIER
+
+} {4.0 6.0 7.0 8.0 9.0 12.0 13.0 14.0 15.0 16.0 17.0 18.0 19.0 20.0 21.0 22.0 23.0 24.0 25.0 28.0 29.0 30.0 31.0 32.0} {}} {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Final/decoder_8b10b.v} {1 {vlog -work work -stats=none {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Final/decoder_8b10b.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module decoder_8b10b
+
+Top level modules:
+	decoder_8b10b
+
+} {} {}} {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/intensity_tb.v} {1 {vlog -work work -stats=none {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/intensity_tb.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module intensity_tb
+
+Top level modules:
+	intensity_tb
+
+} {} {}} {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/keyboard_fsm_tb.v} {1 {vlog -work work -stats=none {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/keyboard_fsm_tb.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module keyboard_fsm_tb
+
+Top level modules:
+	keyboard_fsm_tb
+
+} {} {}} {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/address_change.v} {1 {vlog -work work -stats=none {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/address_change.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module address_change
+
+Top level modules:
+	address_change
+
+} {} {}} {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/LCD_Scope_Encapsulated_pacoblaze_wrapper.v} {1 {vlog -work work -stats=none {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/LCD_Scope_Encapsulated_pacoblaze_wrapper.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module LCD_Scope_Encapsulated_pacoblaze_wrapper
+
+Top level modules:
+	LCD_Scope_Encapsulated_pacoblaze_wrapper
+
+} {} {}} {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Final/encoder_8b10b.v} {1 {vlog -work work -stats=none {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Final/encoder_8b10b.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module encoder_8b10b
+
+Top level modules:
+	encoder_8b10b
+
+} {} {}} {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/picoblaze_activity_template_de2/template_de2/doublesync.v} {1 {vlog -work work -stats=none {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/picoblaze_activity_template_de2/template_de2/doublesync.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module doublesync
+
+Top level modules:
+	doublesync
+
+} {} {}} {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/intensity.v} {1 {vlog -work work -stats=none {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/intensity.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module intensity
+
+Top level modules:
+	intensity
+
+} {} {}} {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/flash_read_tb.v} {1 {vlog -work work -stats=none {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/flash_read_tb.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module flash_read_tb
+
+Top level modules:
+	flash_read_tb
+
+} {} {}} {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/my_clock_divider.v} {1 {vlog -work work -stats=none {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/my_clock_divider.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module my_clock_divider
+
+Top level modules:
+	my_clock_divider
+
+} {} {}} {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/Write_Kbd_To_LCD.v} {1 {vlog -work work -stats=none {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/Write_Kbd_To_LCD.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module Write_Kbd_To_LCD
+
+Top level modules:
+	Write_Kbd_To_LCD
+
+} {} {}} {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/address_change_tb.v} {1 {vlog -work work -stats=none {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/address_change_tb.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module address_change_tb
+
+Top level modules:
+	address_change_tb
+
+} {} {}} {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/picoblaze_activity_template_de2/template_de2/Picoblaze_Practice.v} {0 {vlog -work work -stats=none {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/picoblaze_activity_template_de2/template_de2/Picoblaze_Practice.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module Picoblaze_Practice
+** Error: C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/picoblaze_activity_template_de2/template_de2/Picoblaze_Practice.v(107): near ";": Syntax error.
+** Error: C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/picoblaze_activity_template_de2/template_de2/Picoblaze_Practice.v(110): (vlog-2730) Undefined variable: 'LED'.
+
+
+} {4.0 6.0} {}} {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/audio_out.v} {1 {vlog -work work -stats=none {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/audio_out.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module audio_out
+
+Top level modules:
+	audio_out
+
+} {} {}} {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/speed.v} {1 {vlog -work work -stats=none {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/speed.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module speed
+
+Top level modules:
+	speed
+
+} {} {}} {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/key2ascii.v} {1 {vlog -work work -stats=none {C:/Users/Gurman Toor/Documents/CPEN 311/Lab 3/Lab2/template_de1soc/key2ascii.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module key2ascii
+
+Top level modules:
+	key2ascii
+
+} {} {}}
